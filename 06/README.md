@@ -7,4 +7,5 @@
 - 6-4 변수 인라인하기(Inline variable) ✔done
 - 6-5 함수 선언 바꾸기(Change function declaration) ✔done
 - 6-6 변수 캡슐화하기(Encapsulate variable) ✔done
-- 6-7 변수 이름 바꾸기(Rename variable) ❌not yet
+- 6-7 변수 이름 바꾸기(Rename variable) ✔done
+- 6-8 매개변수 객체 만들기(Introduce parameter object) ❌not yet
