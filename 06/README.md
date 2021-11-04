@@ -9,4 +9,5 @@
 - 6-6 변수 캡슐화하기(Encapsulate variable) ✔done
 - 6-7 변수 이름 바꾸기(Rename variable) ✔done
 - 6-8 매개변수 객체 만들기(Introduce parameter object) ✔done
-- 6-9 여러 함수를 클래스로 묶기(Combine functions into Class) ❌Not yet
+- 6-9 여러 함수를 클래스로 묶기(Combine functions into Class) ✔done
+- 6-10 여러 함수를 변환 함수로 묶기(Conbine functions into transform) ❌Not yet
