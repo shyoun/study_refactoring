@@ -10,4 +10,5 @@
 - 6-7 변수 이름 바꾸기(Rename variable) ✔done
 - 6-8 매개변수 객체 만들기(Introduce parameter object) ✔done
 - 6-9 여러 함수를 클래스로 묶기(Combine functions into Class) ✔done
-- 6-10 여러 함수를 변환 함수로 묶기(Conbine functions into transform) ❌Not yet
+- 6-10 여러 함수를 변환 함수로 묶기(Conbine functions into transform) ✔done
+- 6-11 단계 쪼개기(Split phase) ❌Not yet
